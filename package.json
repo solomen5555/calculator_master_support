@@ -1,0 +1,22 @@
+{
+  "name": "datnt1003-calculator-master",
+  "version": "1.0.0",
+  "description": "This is super calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solomen5555/calculator_master_support.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Nguyen Thanh Dat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solomen5555/calculator_master_support/issues"
+  },
+  "homepage": "https://github.com/solomen5555/calculator_master_support#readme"
+}
